@@ -56,7 +56,7 @@
 - ✅ **6 Merged Pull Requests**
 - 📂 **Contributed to 5 Public Repositories**
 - 👩‍💻 Open source contributor at **GirlScript Summer of Code (GSSoC)**
-- 👩‍💻 Open source contributor at **Social Summer of Code**
+- 👩‍💻 Open source contributor at **Social Summer of Code (SSoC)**
 
 ---
 
