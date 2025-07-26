@@ -54,9 +54,9 @@
 ### 📊 Open Source Contribution Summary
 
 - ✅ **6 Merged Pull Requests**
-- 🐞 **8 Issues Opened**
 - 📂 **Contributed to 5 Public Repositories**
-- 🚀 Participated in programs like **SSoC**
+- 👩‍💻 Open source contributor at **GirlScript Summer of Code (GSSoC)**
+- 👩‍💻 Open source contributor at **Social Summer of Code**
 
 ---
 
