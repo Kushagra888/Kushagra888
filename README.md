@@ -46,8 +46,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kushagra888&show_icons=true&theme=radical" alt="Kushagra's stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kushagra888&theme=radical" alt="Kushagra's summary" />
 </p>
+
 
 ---
 
@@ -61,6 +62,6 @@
 
 ### 💡 Fun Fact
 
-> “I love building things that solve real problems — fast, secure, and smart.”
+> “I enjoy exploring”
 
 ---
