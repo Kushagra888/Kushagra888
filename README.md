@@ -46,8 +46,14 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Kushagra888?template=classic&followup=1&isocalendar=1&languages=1&achievements=1" alt="Kushagra's metrics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kushagra888&theme=radical" alt="Kushagra's summary" />
 </p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kushagra888&theme=radical&show_icons=true&count_private=false&hide=stars,commits,issues,contribs" alt="Kushagra PRs only" />
+</p>
+
 
 
 ---
